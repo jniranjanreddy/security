@@ -2,6 +2,7 @@
 ###source: https://owasp.org/www-project-web-security-testing-guide/stable/2-Introduction/README#The-OWASP-Testing-Project 
 ## Source
 
+## Install Trivy - curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sudo sh -s -- -b /usr/local/bin v0.69.3
 ```
 Static Application Security Testing (SAST):
 
@@ -19,8 +20,6 @@ Interactive Application Security Testing (IAST):
 | Domain 3 | Infrastructure Security|
 | Domain 4 | Identity and Access Management |
 | Domain 5 | Data Protection |
-
-
 
 ```
 
